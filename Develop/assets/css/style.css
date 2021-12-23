@@ -1,0 +1,246 @@
+* { /* sets universal box sizing, padding, and margin */
+    box-sizing: border-box;
+    padding: 0; 
+    margin: 0;
+}
+
+body { /* sets the body sections background color */
+    background-color: #d9dcd6; 
+}
+
+.header { /* sets the header class's padding, font, background color, and general color  */
+    padding: 20px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.header h1 { /* sets the header class's display from block to inline-block and font size */
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1 .seo { /* sets the particular seo class's color within the heading 1 (or main heading) as part of the superior header class  */
+    color: #d9dcd6;
+}
+
+.header nav { /* sets the navigation elements padding on top and to the right, then floats elements right to be displayed correctly in browser. Then utilized the specified font familes along with size, and finally sets the list style as none by specification */
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+/* combined this with the section above */
+/* 
+.header nav ul {
+    list-style-type: none;
+}
+*/
+
+.header nav ul li { /* Specifies the list items within an unordered list and navigation section under the header class as an inline block elemet vs block. Then it sets the elements margin left as  described*/
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a { /* Defines anchor elemts color and text decoration */
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p { /* Sets font size of paragraphs */
+    font-size: 16px;
+}
+
+.hero { /* Defines the hero class's height, width, bottom of margin spacing, background image location, background size and positioning */
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left { /* Defines float-left class's specifications */
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right { /* Defines float-right class's specifications */
+    float: right;
+    margin-left: 25px;
+}
+
+.content { /* Defines content class's specifications */
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.main-content { /* Defines main-content class's specifications */
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.main-content img { /* Defines main-content class's image specifications */
+    max-height: 200px;
+}
+
+.main-content h2 { /* Defines main-content class's heading 2 (or secondary heading) specifications */
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.benefits { /* Defines benafits class's specifications */
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefits div{ /* Defines benafits class's sections or divisional element specifications */
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefits h3 { /* Defines benafits class's heading 3 (or third heading) specifications */
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits img { /* Defines benafits class's image specifications */
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
+/* Commented out what I had combined to the above as a fix */
+/*
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+*/
+
+/* Commented out this section and moved it above benafits to fit the html flow and like the above combined classes for simplicity */
+
+/*
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+*/
+
+.footer { /* Defines footer class's specifications */
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 { /* Defines footer class's heading 2 (or secondary heading) specifications */
+    font-size: 20px;
+}
