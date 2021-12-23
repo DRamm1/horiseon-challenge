@@ -33,19 +33,13 @@ body { /* sets the body sections background color */
     list-style-type: none;
 }
 
-/* combined this with the section above */
-/* 
-.header nav ul {
-    list-style-type: none;
-}
-*/
 
 .header nav ul li { /* Specifies the list items within an unordered list and navigation section under the header class as an inline block elemet vs block. Then it sets the elements margin left as  described*/
     display: inline-block;
     margin-left: 25px;
 }
 
-a { /* Defines anchor elemts color and text decoration */
+a { /* Defines anchor elements color and text decoration */
     color: #ffffff;
     text-decoration: none;
 }
@@ -63,12 +57,12 @@ p { /* Sets font size of paragraphs */
     background-position: center;
 }
 
-.float-left { /* Defines float-left class's specifications */
+.float-left { /* Defines float-left class's specifications as float to the left and how far right to position the margin*/
     float: left;
     margin-right: 25px;
 }
 
-.float-right { /* Defines float-right class's specifications */
+.float-right { /* Defines float-right class's specifications as float to the right and how far left to position the margin*/
     float: right;
     margin-left: 25px;
 }
@@ -79,7 +73,7 @@ p { /* Sets font size of paragraphs */
     margin-left: 20px;
 }
 
-.main-content { /* Defines main-content class's specifications */
+.main-content { /* Defines main-content class's specifications as bottom margin, padding, height, font family, background color, and general color */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -88,16 +82,16 @@ p { /* Sets font size of paragraphs */
     color: #ffffff;
 }
 
-.main-content img { /* Defines main-content class's image specifications */
+.main-content img { /* Defines main-content class's image specifications for maximum height */
     max-height: 200px;
 }
 
-.main-content h2 { /* Defines main-content class's heading 2 (or secondary heading) specifications */
+.main-content h2 { /* Defines main-content class's heading 2 (or secondary heading) specifications for bottom margin and font size */
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.benefits { /* Defines benafits class's specifications */
+.benefits { /* Defines benafits class's specifications for right margin, padding, clearing of floated elements, floatation, width, height, font family, and background color */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -108,139 +102,30 @@ p { /* Sets font size of paragraphs */
     background-color: #2589bd;
 }
 
-.benefits div{ /* Defines benafits class's sections or divisional element specifications */
+.benefits article{ /* Defines benafits class's sections or divisional element specifications for bottom margin and color */
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits h3 { /* Defines benafits class's heading 3 (or third heading) specifications */
+.benefits h3 { /* Defines benafits class's heading 3 (or third heading) specifications for bottom margin and text alignment*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits img { /* Defines benafits class's image specifications */
+.benefits img { /* Defines benafits class's image specifications for display type, margin, and maximum width */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 
-/* Commented out what I had combined to the above as a fix */
-/*
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-*/
-
-/* Commented out this section and moved it above benafits to fit the html flow and like the above combined classes for simplicity */
-
-/*
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-*/
-
-.footer { /* Defines footer class's specifications */
+.footer { /* Defines footer class's specifications for padding, clearing of floated elements, font family, and text alignment */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 { /* Defines footer class's heading 2 (or secondary heading) specifications */
+.footer h2 { /* Defines footer class's heading 2 (or secondary heading) specifications for font size */
     font-size: 20px;
 }
