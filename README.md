@@ -36,7 +36,8 @@ Removed multiple non-necessary classes and combined .benafits-lead .benafits-bra
 - Added CSS comments for further understanding
 - Replaced div in respect to section name types
 - Changed the order of the benafits and main-content sections in CSS to follow the HTML top down flow
-- Located in ![](assets/css/style.css)
+- Located in:
+![](assets/css/style.css)
 
 
 # How To Use:
@@ -55,7 +56,8 @@ To help understand sections better I like to leave a space bettween two obvious,
   
 - Hero Image:
 Located in assets/images
-Hero image: ![](assets/images/digital-marketing-meeting.jpg)
+Hero image: 
+![](assets/images/digital-marketing-meeting.jpg)
 
 - Main-Content Images:
 Located in assets/images-
@@ -65,9 +67,12 @@ Social media image: ![](assets/social-media-marketing.jpg)
 
 - Benafits Images: 
 Located in assets/images
-lead generation image: ![](assets/lead-generation.png)
-Brand awareness image: ![](assets/brand-awareness.png)
-Cost management image: ![](assets/cost-management.png)
+lead generation image: 
+![](assets/lead-generation.png)
+Brand awareness image: 
+![](assets/brand-awareness.png)
+Cost management image: 
+![](assets/cost-management.png)
 
 - Wireframe/Original Website Image:
 https://gyazo.com/87602855d1d8de2e71d5e214326bf31d
@@ -75,7 +80,7 @@ https://gyazo.com/87602855d1d8de2e71d5e214326bf31d
 - GitHub Link:
 https://github.com/DRamm1/module-1-challenge
 
-- Framework
+- Framework:
  HTML and CSS
 
 - Footer and Copyright Character:
