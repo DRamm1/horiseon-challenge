@@ -55,19 +55,16 @@ To help understand sections better I like to leave a space bettween two obvious,
   
 - Hero Image:
 Located in assets/images
-------------------------
 Hero image: ![](assets/images/digital-marketing-meeting.jpg)
 
 - Main-Content Images:
-Located in assets/images
-------------------------
+Located in assets/images-
 SEO image: ![](assets/search-engine-optimization.jpg)
 Reputation ![](assets/online-reputation-management.jpg)
 Social media image: ![](assets/social-media-marketing.jpg)
 
 - Benafits Images: 
 Located in assets/images
-------------------------
 lead generation image: ![](assets/lead-generation.png)
 Brand awareness image: ![](assets/brand-awareness.png)
 Cost management image: ![](assets/cost-management.png)
@@ -82,6 +79,5 @@ https://github.com/DRamm1/module-1-challenge
  HTML and CSS
 
 - Footer and Copyright Character:
--------------------
 ❤️ ©
 
