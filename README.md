@@ -19,9 +19,6 @@ Included alt text for:
 - Added comments for Deeper understanding
 - Included and id for best practice in the benafits divs and changed them to articles
 - Defined footer div
-
-HTML:
------
 - Located in ![](index.html)
 
 
@@ -39,10 +36,7 @@ Removed multiple non-necessary classes and combined .benafits-lead .benafits-bra
 - Added CSS comments for further understanding
 - Replaced div in respect to section name types
 - Changed the order of the benafits and main-content sections in CSS to follow the HTML top down flow
-
-CSS:
-----
-Located in ![](assets/css/style.css)
+- Located in ![](assets/css/style.css)
 
 
 # How To Use:
@@ -57,35 +51,37 @@ To help understand sections better I like to leave a space bettween two obvious,
 <!-- Body -->
 <body>
 
-# Hero Image:
+# Images
+  
+- Hero Image:
 Located in assets/images
 ------------------------
 Hero image: ![](assets/images/digital-marketing-meeting.jpg)
 
-# Main-Content Images:
+- Main-Content Images:
 Located in assets/images
 ------------------------
 SEO image: ![](assets/search-engine-optimization.jpg)
 Reputation ![](assets/online-reputation-management.jpg)
 Social media image: ![](assets/social-media-marketing.jpg)
 
-# Benafits Images: 
+- Benafits Images: 
 Located in assets/images
 ------------------------
 lead generation image: ![](assets/lead-generation.png)
 Brand awareness image: ![](assets/brand-awareness.png)
 Cost management image: ![](assets/cost-management.png)
 
-# Wireframe/Original Website Image:
-- https://gyazo.com/87602855d1d8de2e71d5e214326bf31d
+- Wireframe/Original Website Image:
+https://gyazo.com/87602855d1d8de2e71d5e214326bf31d
 
-# GitHub Link:
-- https://github.com/DRamm1/module-1-challenge
+- GitHub Link:
+https://github.com/DRamm1/module-1-challenge
 
-# Framework
-- HTML and CSS
+- Framework
+ HTML and CSS
 
-# Footer and Copyright Character:
+- Footer and Copyright Character:
 -------------------
 ❤️ ©
 
