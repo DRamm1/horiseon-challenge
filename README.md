@@ -14,6 +14,7 @@ Included alt text for:
 - SEO image
 - Online Reputation Management image
 - Social Media Marketing image
+
 - Included alt tags for images as best practice, without discription as the images are more for show then relative to the content
 - Remove Closing </img> element and replaced it with /> as img tags don't need closing tags
 - Added comments for Deeper understanding
@@ -57,10 +58,11 @@ Hero image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images
 - Reputation: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/online-reputation-management.jpg
 - Social media image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/social-media-marketing.jpg
 - Benafits Images: 
-lead generation Image:https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/lead-generation.png
-Brand awareness Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/brand-awareness.png
-Cost management Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/cost-management.png
-- Additional Images
+- lead generation Image:https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/lead-generation.png
+- Brand awareness Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/brand-awareness.png
+- Cost management Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/cost-management.png
+ 
+#Additional Images
 - Wireframe/Original Website Image:
 https://gyazo.com/87602855d1d8de2e71d5e214326bf31d
 - GitHub Link:
