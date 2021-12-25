@@ -52,7 +52,7 @@ To help understand sections better I like to leave a space bettween two obvious,
  
 - Hero Image: https://github.com/DRamm1/horiseon-challenge/blob/main/assets/images/digital-marketing-meeting.jpg
  --------------------
-- Main-Content Images:
+ Main-Content Images:
 - SEO image: https://github.com/DRamm1/horiseon-challenge/blob/main/assets/images/search-engine-optimization.jpg
 - Reputation: https://github.com/DRamm1/horiseon-challenge/blob/main/assets/images/online-reputation-management.jpg
 - Social media image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/social-media-marketing.jpg
