@@ -21,7 +21,6 @@ Included alt text for:
 - Defined footer div
 - Located in: https://github.com/DRamm1/module-1-challenge/blob/main/index.html
 
-
 # CSS Changes
 -----------
 - Added quotations to font Calibri
@@ -42,7 +41,7 @@ Removed multiple non-necessary classes and combined .benafits-lead .benafits-bra
 - Navigate the website via the navigation options in the top right or by scrolling. You can also access the main website page via the Horiseon header if additional pages were to be added in the future.
 
 # Code Style:
-To help understand sections better I like to leave a space bettween two obvious, or what I feel to be important sections as a way to easily and visually find the header, body, footer etc... like the example below. 
+- To help understand sections better I like to leave a space bettween two obvious, or what I feel to be important sections as a way to easily and visually find the header, body, footer etc... like the example below. 
 </head>
 <!-- End Head and HTML Requisites -->
 
@@ -56,7 +55,7 @@ Hero image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images
 - Main-Content Images:
 Located in assets/images-
 SEO image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/search-engine-optimization.jpg
-Reputation https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/online-reputation-management.jpg
+Reputation: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/online-reputation-management.jpg
 Social media image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/social-media-marketing.jpg
 - Benafits Images: 
 Located in assets/images
