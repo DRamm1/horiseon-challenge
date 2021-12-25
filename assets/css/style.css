@@ -104,7 +104,7 @@ p { /* Sets font size of paragraphs */
 
 .benefits article{ /* Defines benafits class's sections or divisional element specifications for bottom margin and color */
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #300606;
 }
 
 .benefits h3 { /* Defines benafits class's heading 3 (or third heading) specifications for bottom margin and text alignment*/
