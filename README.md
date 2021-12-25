@@ -53,15 +53,14 @@ Removed multiple non-necessary classes and combined .benafits-lead .benafits-bra
 Located in assets/images
 Hero image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/digital-marketing-meeting.jpg
 - Main-Content Images:
-Located in assets/images-
-SEO image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/search-engine-optimization.jpg
-Reputation: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/online-reputation-management.jpg
-Social media image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/social-media-marketing.jpg
+- SEO image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/search-engine-optimization.jpg
+- Reputation: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/online-reputation-management.jpg
+- Social media image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/social-media-marketing.jpg
 - Benafits Images: 
-Located in assets/images
-lead generation image:https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/lead-generation.png
-Brand awareness image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/brand-awareness.png
-Cost management image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/cost-management.png
+lead generation Image:https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/lead-generation.png
+Brand awareness Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/brand-awareness.png
+Cost management Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/cost-management.png
+- Additional Images
 - Wireframe/Original Website Image:
 https://gyazo.com/87602855d1d8de2e71d5e214326bf31d
 - GitHub Link:
