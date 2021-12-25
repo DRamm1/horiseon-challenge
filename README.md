@@ -19,7 +19,7 @@ Included alt text for:
 - Added comments for Deeper understanding
 - Included and id for best practice in the benafits divs and changed them to articles
 - Defined footer div
-- Located in ![](index.html)
+- Located in: https://github.com/DRamm1/module-1-challenge/blob/main/index.html
 
 
 # CSS Changes
@@ -36,13 +36,10 @@ Removed multiple non-necessary classes and combined .benafits-lead .benafits-bra
 - Added CSS comments for further understanding
 - Replaced div in respect to section name types
 - Changed the order of the benafits and main-content sections in CSS to follow the HTML top down flow
-- Located in:
-![](assets/css/style.css)
-
+- Located in: https://github.com/DRamm1/module-1-challenge/blob/main/assets/css/style.css
 
 # How To Use:
 - Navigate the website via the navigation options in the top right or by scrolling. You can also access the main website page via the Horiseon header if additional pages were to be added in the future.
-
 
 # Code Style:
 To help understand sections better I like to leave a space bettween two obvious, or what I feel to be important sections as a way to easily and visually find the header, body, footer etc... like the example below. 
@@ -52,31 +49,22 @@ To help understand sections better I like to leave a space bettween two obvious,
 <!-- Body -->
 <body>
 
-# Images
-  
+# Images  
 - Hero Image:
 Located in assets/images
-Hero image: 
-![](assets/images/digital-marketing-meeting.jpg)
-
+Hero image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/digital-marketing-meeting.jpg
 - Main-Content Images:
 Located in assets/images-
-SEO image: ![](assets/search-engine-optimization.jpg)
-Reputation ![](assets/online-reputation-management.jpg)
-Social media image: ![](assets/social-media-marketing.jpg)
-
+SEO image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/search-engine-optimization.jpg
+Reputation https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/online-reputation-management.jpg
+Social media image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/social-media-marketing.jpg
 - Benafits Images: 
 Located in assets/images
-lead generation image: 
-![](assets/lead-generation.png)
-Brand awareness image: 
-![](assets/brand-awareness.png)
-Cost management image: 
-![](assets/cost-management.png)
-
+lead generation image:https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/lead-generation.png
+Brand awareness image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/brand-awareness.png
+Cost management image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/cost-management.png
 - Wireframe/Original Website Image:
 https://gyazo.com/87602855d1d8de2e71d5e214326bf31d
-
 - GitHub Link:
 https://github.com/DRamm1/module-1-challenge
 
