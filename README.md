@@ -21,7 +21,7 @@ Included alt text for:
 - Included alt tags for images as best practice, without discription as the images are more for show then relative to the content
 - Remove Closing </img> element and replaced it with /> as img tags don't need closing tags
 - Added comments for Deeper understanding
-- Included and id for best practice in the benafits divs and changed them to articles
+- Included and id for best practice in the benafits divs and changed them to aside
 - Defined footer div
 - Located in: https://github.com/DRamm1/horiseon-challenge/blob/main/index.html
 
