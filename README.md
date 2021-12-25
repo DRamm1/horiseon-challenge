@@ -1,5 +1,5 @@
 # Module-1-Challenge 
-- Using the given code we must meet accessibility standards for SEO and use correct smantic formatting to give the end user a better experiance, and by doing so, we must implement best HTML and CSS practices.
+Using the given code we must meet accessibility standards for SEO and use correct smantic formatting to give the end user a better experiance, and by doing so, we must implement best HTML and CSS practices.
 
 # HTML Changes
 ------------
@@ -40,10 +40,10 @@ Removed multiple non-necessary classes and combined .benafits-lead .benafits-bra
 - Located in: https://github.com/DRamm1/module-1-challenge/blob/main/assets/css/style.css
 
 # How To Use:
-- Navigate the website via the navigation options in the top right or by scrolling. You can also access the main website page via the Horiseon header if additional pages were to be added in the future.
+Navigate the website via the navigation options in the top right or by scrolling. You can also access the main website page via the Horiseon header if additional pages were to be added in the future.
 
 # Code Style:
-- To help understand sections better I like to leave a space bettween two obvious, or what I feel to be important sections as a way to easily and visually find the header, body, footer etc... like the example below. 
+To help understand sections better I like to leave a space bettween two obvious, or what I feel to be important sections as a way to easily and visually find the header, body, footer etc... like the example below. 
 </head>
 <!-- End Head and HTML Requisites -->
 
@@ -51,7 +51,7 @@ Removed multiple non-necessary classes and combined .benafits-lead .benafits-bra
 <body>
 
 # Images  
-- All Images Located in assets/images
+ All Images Located in assets/images
  
 - Hero Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/digital-marketing-meeting.jpg
  --------------------
@@ -60,13 +60,13 @@ Removed multiple non-necessary classes and combined .benafits-lead .benafits-bra
 - Reputation: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/online-reputation-management.jpg
 - Social media image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/social-media-marketing.jpg
  -------------------
-- Benafits Images: 
+ Benafits Images: 
 - lead generation Image:https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/lead-generation.png
 - Brand awareness Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/brand-awareness.png
 - Cost management Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/cost-management.png
  
 ------------------
--Additional Images
+ Additional Images
 - Wireframe/Original Website Image:
 https://gyazo.com/87602855d1d8de2e71d5e214326bf31d
 - GitHub Link:
