@@ -43,11 +43,7 @@ Removed multiple non-necessary classes and combined .benafits-lead .benafits-bra
 Navigate the website via the navigation options in the top right or by scrolling. You can also access the main website page via the Horiseon header if additional pages were to be added in the future.
 
 # Code Style:
-To help understand sections better I like to leave a space bettween two obvious, or what I feel to be important sections as a way to easily and visually find the header, body, footer etc... like the example below.
-
-<!-- End Head and HTML Requisites -->
-
-<!-- Body -->
+To help understand sections better I like to leave a space bettween two obvious, or what I feel to be important sections as a way to easily and visually find the header, body, footer etc... 
 
 # Images  
  All Images Located in assets/images
