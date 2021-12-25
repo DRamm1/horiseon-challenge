@@ -1,6 +1,8 @@
 # Horiseon-Challenge 
 Using the given code we must meet accessibility standards for SEO and use correct smantic formatting to give the end user a better experiance, and by doing so, we must implement best HTML and CSS practices.
 
+Live URL: https://dramm1.github.io/horiseon-challenge/
+
 # HTML Changes
 ------------
 - Changed div navigation
