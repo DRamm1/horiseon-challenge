@@ -102,7 +102,7 @@ p { /* Sets font size of paragraphs */
     background-color: #2589bd;
 }
 
-.benefits aside{ /* Defines benafits class's sections or divisional element specifications for bottom margin and color */
+.benefits article{ /* Defines benafits class's sections or divisional element specifications for bottom margin and color */
     margin-bottom: 32px;
     color: #ffffff;
 }
