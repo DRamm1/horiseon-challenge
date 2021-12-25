@@ -66,7 +66,7 @@ To help understand sections better I like to leave a space bettween two obvious,
 - Cost management Image: https://github.com/DRamm1/module-1-challenge/blob/main/assets/images/cost-management.png
  
 ------------------
- Additional Images
+ Additional Images and Information
 - Wireframe/Original Website Image:
 https://gyazo.com/87602855d1d8de2e71d5e214326bf31d
 - GitHub Link:
