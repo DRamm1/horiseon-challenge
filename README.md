@@ -26,8 +26,7 @@ Included alt text for:
 - Located in: https://github.com/DRamm1/horiseon-challenge/blob/main/index.html
 
 # CSS Changes
------------
-- Added quotations to font Calibri
+-------------
 - Changed div to nav for the navigation type selector
 - Combined .header nav and .header nav ul for simplicity
 Removed multiple non-necessary classes and combined .benafits-lead .benafits-brand and .benafits.cost together since they are the same and I just used the original - classification of benafits
